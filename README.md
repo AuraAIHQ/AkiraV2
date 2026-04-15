@@ -1,6 +1,8 @@
 # AkiraV2
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)+ Build for technical upgration, totally new solution for all infra.
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
++ Build for technical upgration, totally new solution for all infra.
 + Akira是一个社区运营小工具，匿名链上记录下社区有意义的人和事。
 + 发起活动-->提供底稿图片-->提供名单-->页面Serverless发布SBT
 + [测试链Demo]()
